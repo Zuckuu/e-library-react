@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/e-library-react/static/css/main.ca755e51.css",
+    "main.js": "/e-library-react/static/js/main.ac00686f.js",
+    "static/js/787.a7f5bb1c.chunk.js": "/e-library-react/static/js/787.a7f5bb1c.chunk.js",
+    "static/media/Undraw_Books.svg": "/e-library-react/static/media/Undraw_Books.64f45ed25262241aba12eff6dcb25d88.svg",
+    "static/media/Library.svg": "/e-library-react/static/media/Library.70d0a6a90c21c295982ded03f9ea8615.svg",
+    "static/media/empty_cart.svg": "/e-library-react/static/media/empty_cart.378125a834ec5473a1cffd7c59e06527.svg",
+    "index.html": "/e-library-react/index.html",
+    "static/media/wave.svg": "/e-library-react/static/media/wave.42edd5970e3619090a0f.svg",
+    "main.ca755e51.css.map": "/e-library-react/static/css/main.ca755e51.css.map",
+    "main.ac00686f.js.map": "/e-library-react/static/js/main.ac00686f.js.map",
+    "787.a7f5bb1c.chunk.js.map": "/e-library-react/static/js/787.a7f5bb1c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca755e51.css",
+    "static/js/main.ac00686f.js"
+  ]
+}
