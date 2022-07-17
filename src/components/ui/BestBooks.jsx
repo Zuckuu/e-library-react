@@ -10,7 +10,7 @@ const BestBooks = ({ id }) => {
           if (id) {
             // Check for id when on the individual book
             // so the same book isnt recommended
-            return book.rating === 5 && book.id != id;
+            return book.rating === 5 && book.id !== id;
           }
           return book.rating === 5;
         })
